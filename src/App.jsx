@@ -1,9 +1,10 @@
 import React from 'react'
+import Form from './page/Form'
 
 const App = () => {
   return (
     <div>
-      <h1>Hello Project!</h1>
+      <Form />
     </div>
   )
 }
